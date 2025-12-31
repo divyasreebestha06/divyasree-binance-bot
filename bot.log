@@ -1,0 +1,9 @@
+2025-12-31 15:38:56,050 - INFO - Limit order placed: {}
+2025-12-31 17:48:18,730 - INFO - Limit order placed: {}
+2025-12-31 17:48:44,600 - INFO - Stop-Limit order placed: {}
+2025-12-31 17:49:16,359 - INFO - OCO simulated: Stop={} TP={}
+2025-12-31 17:49:53,222 - INFO - TWAP order 1 placed: {}
+2025-12-31 17:49:58,646 - INFO - TWAP order 2 placed: {}
+2025-12-31 17:50:03,879 - INFO - TWAP order 3 placed: {}
+2025-12-31 17:50:09,097 - INFO - TWAP order 4 placed: {}
+2025-12-31 17:50:14,541 - INFO - TWAP order 5 placed: {}
